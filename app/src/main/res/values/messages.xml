@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--error messages - login -->
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_login_invalid_credentials">Invalid credentials</string>
+
+    <string name="error_loginpage_unabletologin">Unauthorized login!</string>
+    <string name="error_loginpage_loginfailed">Login failed, Please try again!</string>
+
+    <!-- error messages - ticket -->
+    <string name="error_tickets_not_found">User has no available tickets</string>
+
+</resources>

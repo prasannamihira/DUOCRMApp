@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E9807B</color>
+    <color name="colorPrimaryDark">#C70039</color>
+    <color name="colorAccent">#C70039</color>
+
+    <!-- Common colors -->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="textPrimary">#4A4A4A</color>
+    <color name="textHint">#CFD8DC</color>
+    <color name="colorTicketBg">#E9807B</color>
+</resources>

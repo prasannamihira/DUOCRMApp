@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Duo CRM App</string>
+
+    <!-- Shared Preferences -->
+    <string name="sp_login_token">spLoginToken</string>
+
+    <!-- UI Titles -->
+    <string name="title_tickets">My Tickets</string>
+    <string name="title_ticket_details">Ticket Details</string>
+
+    <!-- Strings related to Login -->
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn_login">Log in</string>
+    <string name="login_not_have_account">Don\'t have an account?</string>
+    <string name="login_create_an_account">Create an account</string>
+    <string name="login_header">CRM Login</string>
+    <string name="login_forgot_password">Forgot Password</string>
+    <string name="title_activity_ticket_details">Ticket Details</string>
+</resources>
